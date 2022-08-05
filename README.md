@@ -1,4 +1,4 @@
-# continho-da-francisca
+# cantinho-da-francisca
 -sobre gato
 -fotas
 -miau
