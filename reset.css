@@ -34,6 +34,15 @@ input.btn{width: auto; cursor: pointer;}
 /*È uma Seção de Titulo */
 .section_title{ font-size: 1em; text-align: center; color: #333; }
 
-
-
-
+@font-face {
+font-family: ´open_sansbold`;
+src: url(´opensans/opensans-bold-webfont.woff2`) format(´WOFF2`),
+url(´opensans/opensans-bold-webfont.woff`) format(´woff`);
+font-weight: normal;
+font-style: normal;  
+  
+} 
+  
+ @font-face {
+ font-family: ´open_sansextrabold`;  
+   
