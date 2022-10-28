@@ -45,4 +45,49 @@ font-style: normal;
   
  @font-face {
  font-family: ´open_sansextrabold`;  
+ src: url(opensans/opensans-extrabold-webfont.woff2`) format(´woff2`)
+ url(opensans/opensans-extrabold-webfont.woff`) format(´woff`); 
+ font-weight: normal;
+ font-style: normal;
+   
+}
+
+@font-face {]
+font-family: ´open_sansligth`;
+src: url(ópensans/opensans-light-webfont.woff2`) format(´woff2`)
+url(´opensans/opensans-light-webfont.woff`) format(´woff`);
+font-weight: normal;
+font-style: normal;
+  
+}
+
+@font-face {
+font-family: ´open_sansregular`;
+src: url(´opensans/opensans-regular-webfont.woff2`) format(´woff2`),
+url(´opensans/opensans-regular-webfont.woff`) format(´woff`);
+font-weight: normal;  
+font_style: normal;
+  
+}
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
    
